@@ -1,0 +1,6 @@
+---
+applications:
+ - name : Smart OCR Application 
+ - random-route : true
+ - memory : 512M
+ - disk_qouta : 1.5G
